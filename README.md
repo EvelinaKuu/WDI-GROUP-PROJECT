@@ -23,11 +23,11 @@ The project can be used on Heroku [here](http://appresski.herokuapp.com/)
 * Heroku
 * Trello
 
-<img width=“1440” alt=“screen shot 2018-03-15 at 09 14 39" src=“https://user-images.githubusercontent.com/13580512/37454021-5ac34022-2831-11e8-8840-13c198fb007c.png”>
+![APPrès Ski Landing Page](https://user-images.githubusercontent.com/13580512/37454021-5ac34022-2831-11e8-8840-13c198fb007c.png)
 
 We started by brainstorming ideas and chose to build a ski and snowboard holiday planning app. We drew our initial wireframes collaboratively on the whiteboard.
 
-![img_1055](https://user-images.githubusercontent.com/33250285/37465792-0a6e9702-2854-11e8-9d5a-6e75f321d125.png)
+![Whiteboard Wireframes](https://user-images.githubusercontent.com/33250285/37465792-0a6e9702-2854-11e8-9d5a-6e75f321d125.png)
 
 For planning we used a Trello board which we continued using throughout the process, dividing tasks and informing each other about the process. We wanted to ensure that we didn’t miss anything and all aspects of our project would be covered by someone. Our detailed planning really helped us to prioritise MVP, communicate on what was going on and avoid conflicts on git - it really helped that we had 3 models and 3 people. We had standups every morning and after lunch and we also used Slack to keep each other updated during the weekend and overnight.
 
@@ -38,8 +38,7 @@ After hitting MVP we added the Google Places API and functionality to favourite 
 
 Our team worked well because we put a lot of effort into communicating and we had a mutual respect of each other’s abilities and value within the team.
 
-<img width=“1440" alt=“screen shot on trello day 1 part 1” src=“https://user-images.githubusercontent.com/13580512/37453871-f51fbe4e-2830-11e8-846e-854e0ec0599f.png”>
-
+![Trello Board](https://user-images.githubusercontent.com/33250285/37466599-0e287e7e-2856-11e8-9d5d-b9c7db092f0c.png)
 
 ## Links
 * Project on [GitHub](https://github.com/EvelinaKuu/WDI-GROUP-PROJECT)
