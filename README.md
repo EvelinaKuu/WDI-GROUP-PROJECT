@@ -9,12 +9,10 @@ The project can be used on Heroku [here](http://appresski.herokuapp.com/)
 * AngularJS
 * HTML5
 * CSS
-* SCSS
+* SASS
 * Express
 * MongoDB
 * Node.js
-* Filestack API
-* Google Places API
 * Mocha
 * Chai
 * NYC
@@ -22,6 +20,12 @@ The project can be used on Heroku [here](http://appresski.herokuapp.com/)
 * Git
 * Heroku
 * Trello
+
+### APIs
+
+* Filestack API
+* Google Maps API
+* Google Places API
 
 ![APPrès Ski Landing Page](https://user-images.githubusercontent.com/13580512/37454021-5ac34022-2831-11e8-8840-13c198fb007c.png)
 
@@ -39,6 +43,12 @@ After hitting MVP we added the Google Places API and functionality to favourite 
 Our team worked well because we put a lot of effort into communicating and we had a mutual respect of each other’s abilities and value within the team.
 
 ![Trello Board](https://user-images.githubusercontent.com/33250285/37466599-0e287e7e-2856-11e8-9d5d-b9c7db092f0c.png)
+
+## Features to Implement
+
+* API for weather and snow conditions 
+* More varied attractions from the Google Places API
+* Full user profile pages
 
 ## Links
 * Project on [GitHub](https://github.com/EvelinaKuu/WDI-GROUP-PROJECT)
