@@ -1,39 +1,51 @@
-# WDI-GROUP-PROJECT
+# WDI Group Project - APPrès Ski
 
-MEAN Stack app planned and built in a week by Patrick Kelly, Charlotte Davies and Evelina Kuusinen.
-For this app we used the following technologies:
-Angular
-JavaScript
-HTML5
-CSS
-SCSS
-MongoDB
-Gulp
-Git
-Heroku
-Filestack API
-Google Places API
-Mocha
-Chai
-NYC
-Trello
+A MEAN Stack application planned and built in a week by Patrick Kelly, Charlotte Davies and Evelina Kuusinen.
 
-We started with brainstorming around ideas and choosing the ski trip planning app. We drew the first draft of wireframes collaboratively on the whiteboard.
-PATRICK, PLEASE ADD 1-2 PHOTOS OF THE WHITEBOARD here
+The project can be used on Heroku [here](http://appresski.herokuapp.com/)
 
-For planning we used a Trello board which we continued using throughout the process dividing tasks and informing each other about the process. We wanted to ensure that we didn't miss anything and all aspects of our project would be covered by someone. Our detailed planning really helped us to prioritise MVP and communicate on what was going on and to help avoid conflicts on git - really helped that we had 3 models and 3 people. We had standups every morning and after lunch and we also used Slack for communicating during the weekend and nights.
+### Technologies and Tools Used
+* JavaScript
+* AngularJS
+* HTML5
+* CSS
+* SCSS
+* Express
+* MongoDB
+* Node.js
+* Filestack API
+* Google Places API
+* Mocha
+* Chai
+* NYC
+* Gulp
+* Git
+* Heroku
+* Trello
+
+<img width=“1440” alt=“screen shot 2018-03-15 at 09 14 39" src=“https://user-images.githubusercontent.com/13580512/37454021-5ac34022-2831-11e8-8840-13c198fb007c.png”>
+
+We started by brainstorming ideas and chose to build a ski and snowboard holiday planning app. We drew our initial wireframes collaboratively on the whiteboard.
+
+<img width=“1440" src=“https://user-images.githubusercontent.com/13580512/37453738-8bacc88a-2830-11e8-9b6c-793383dd465f.png”>
+
+For planning we used a Trello board which we continued using throughout the process, dividing tasks and informing each other about the process. We wanted to ensure that we didn’t miss anything and all aspects of our project would be covered by someone. Our detailed planning really helped us to prioritise MVP, communicate on what was going on and avoid conflicts on git - it really helped that we had 3 models and 3 people. We had standups every morning and after lunch and we also used Slack to keep each other updated during the weekend and overnight.
 
 Our goal was to divide the back and front end coding so that every team member would have the chance of practicing on both. All three of us wrote tests and did styling as well. In three days we hit MVP.
 
-The biggest struggle was that the main API we planned on using was only in XML and could only be used on one IP address. We decided to build the API from scratch giving us the ski destinations with the information we wanted to display on the app.
-After hitting MVP we added the Google Places API, button and functionality to favourite places, styled menus to drop down menus and did autocomplete on forms.
+The biggest struggle was that the main API we planned on using only output in XML and could only be used by one IP address. We decided to build the API from scratch giving us the ski destinations with the information we wanted to display on the app.
+After hitting MVP we added the Google Places API and functionality to favourite places, styled menus to drop down menus and added autocomplete to forms.
 
-Our team worked well because we put a lot of effort in communicating and we had a mutual respect of each other's abilities and value within the team.
+Our team worked well because we put a lot of effort into communicating and we had a mutual respect of each other’s abilities and value within the team.
 
-1-2 SCREENSHOTS OF THE TRELLO BOARD HERE
+<img width=“1440" alt=“screen shot on trello day 1 part 1” src=“https://user-images.githubusercontent.com/13580512/37453871-f51fbe4e-2830-11e8-846e-854e0ec0599f.png”>
 
 
-AND WHATEVER ELSE PHOTOS YOU WANT TO ADD
+## Links
+* Project on [GitHub](https://github.com/EvelinaKuu/WDI-GROUP-PROJECT)
+* Project deployed with [Heroku](http://appresski.herokuapp.com/)
+
+## Diary
 
 Friday
 
