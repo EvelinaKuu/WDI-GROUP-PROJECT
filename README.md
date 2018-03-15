@@ -27,7 +27,7 @@ The project can be used on Heroku [here](http://appresski.herokuapp.com/)
 
 We started by brainstorming ideas and chose to build a ski and snowboard holiday planning app. We drew our initial wireframes collaboratively on the whiteboard.
 
-<img width=“1440" src=“https://user-images.githubusercontent.com/13580512/37453738-8bacc88a-2830-11e8-9b6c-793383dd465f.png”>
+![img_1055](https://user-images.githubusercontent.com/33250285/37465792-0a6e9702-2854-11e8-9d5a-6e75f321d125.png)
 
 For planning we used a Trello board which we continued using throughout the process, dividing tasks and informing each other about the process. We wanted to ensure that we didn’t miss anything and all aspects of our project would be covered by someone. Our detailed planning really helped us to prioritise MVP, communicate on what was going on and avoid conflicts on git - it really helped that we had 3 models and 3 people. We had standups every morning and after lunch and we also used Slack to keep each other updated during the weekend and overnight.
 
